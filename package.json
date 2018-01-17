@@ -1,10 +1,10 @@
 {
   "name": "neomon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "util for node-server",
   "main": "bin/start.js",
   "bin": {
-    "npm-test": "./bin/start.js"
+    "neomon": "./bin/start.js"
   },
   "scripts": {
     "dev": "node ./bin/start.js"
