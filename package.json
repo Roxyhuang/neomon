@@ -1,6 +1,6 @@
 {
   "name": "neomon",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "util for node-server",
   "main": "bin/start.js",
   "bin": {
